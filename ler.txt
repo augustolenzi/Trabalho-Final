@@ -1,0 +1,9 @@
+comandos
+
+git pull origin master
+--------
+git status
+git commit -am "teste"
+git pull origin master
+git push origin master
+
